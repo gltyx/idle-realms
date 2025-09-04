@@ -91,7 +91,7 @@ var cnItems = {
     "Buy": "购买",
     "Cancel": "取消",
     "Combat Log": "战斗日志",
-    "Idle Realms": "领域放置",
+    "Idle Realms": "放置国度",
     "Inventory": "库存",
     "Level": "等级",
     "Mana": "法力",
